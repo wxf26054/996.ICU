@@ -24,4 +24,5 @@
 |[字节跳动](https://bytedance.com)|2017年7月|加班|[看准](https://www.kanzhun.com/gsr5622411tl56.html)|
 |[苏宁](http://www.suning.com)|2019年3月|996|[知乎](https://www.zhihu.com/question/314152843/answer/613149536)|
 |[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[v2ex](https://www.v2ex.com/t/525495)|
+|[方正宽带](http://www.bnchina.com)|一直是|990|[内部员工](内部员工)|
 
